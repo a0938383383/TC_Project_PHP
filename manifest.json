@@ -1,0 +1,23 @@
+{
+	"theme-color": "#317EFB"
+	"short_name": "Tc",
+	"name": "Server Tc",
+	"icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+	],
+	"start_url": "tc.com.tw",
+	#"start_url": "joblistmc.php",
+	"background_color": "#3367D6",
+	"display": "standalone",
+	#"scope": "/maps/",
+	"lang": "zh-Hant-TW" #繁體中文
+}
